@@ -1,0 +1,92 @@
+.root {
+  position: relative;
+  width: 1728px;
+  height: 876px;
+  align-items: flex-start;
+  background-color: #fff;
+}
+.div {
+  position: absolute;
+  left: calc(50% - -0.1992px);
+  top: calc(50% - -63.1875px);
+  width: 1382.3984px;
+  height: 456.375px;
+  align-items: flex-start;
+  transform: translate(-50%, -50%);
+}
+.beachJpg {
+  position: absolute;
+  left: calc(50% - 0px);
+  top: 32px;
+  width: 254.6328px;
+  height: 18.5px;
+  border-radius: 16px;
+  overflow: hidden;
+  transform: translateX(-50%);
+}
+.getReadyToJetASmarterTravelExp {
+  position: absolute;
+  left: 83px;
+  top: 79px;
+  width: 1205px;
+  height: 149px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #f77c7c;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #f77c7c;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.yourSmarterTravelCompanionIsIn {
+  color: #555;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 83px;
+  top: 257px;
+  width: 1215.5906px;
+  height: 54px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.a {
+  position: absolute;
+  left: calc(50% - 5.6992px);
+  top: 340px;
+  width: 265px;
+  height: min-content;
+  padding: 16px 32.0938px 16.5px 31px;
+  border-radius: 16px;
+  background-color: #f77c7c;
+  box-shadow: 1px 1px 10px 0px #0000004d;
+  transform: translateX(-50%);
+}
+.canTWaitSendUsAMessageForSneak {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 205px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
